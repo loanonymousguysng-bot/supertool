@@ -19,9 +19,15 @@ Trong mọi trường hợp, người dùng **không được xem kết quả do
 
 Bằng việc sử dụng tool, người dùng xác nhận rằng mình đã đọc, hiểu và đồng ý với các điều khoản trách nhiệm nêu trên, dev không liên quan trong trường hợp người dùng bị kỉ luật vì vi phạm vì bất kì hành vi nào khác.
 **for dev/teacher:**
+
 Nếu anh/chị là Developer hoặc Teacher và không đồng tình với việc sử dụng tool này, hoặc muốn gửi kiến nghị, phản ánh, yêu cầu ngừng cung cấp/sử dụng tool hay bất kỳ thông tin nào liên quan đến tool:
+
 Contact : loanonymousguysng@gmail.com
+
 Tôi sẽ tiếp nhận và xem xét các phản hồi liên quan.
+
 Lưu ý: Việc liên hệ không đồng nghĩa với việc mọi yêu cầu đều được chấp thuận.
+
 Không gửi mật khẩu, OTP, API key hoặc thông tin nhạy cảm qua email.
+
 **Hãy dùng phần mềm có trách nhiệm**
